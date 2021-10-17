@@ -1,0 +1,17 @@
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\bin\Debug\TestKursovaya.exe.config
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\bin\Debug\TestKursovaya.exe
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\bin\Debug\TestKursovaya.pdb
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\TestKursovaya.csproj.AssemblyReference.cache
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\MainWindow.g.cs
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\App.g.cs
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\TestKursovaya_MarkupCompile.cache
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\TestKursovaya_MarkupCompile.lref
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\MainWindow.baml
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\TestKursovaya.g.resources
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\TestKursovaya.Properties.Resources.resources
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\TestKursovaya.csproj.GenerateResource.cache
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\TestKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\TestKursovaya.exe
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\TestKursovaya.pdb
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\Test0.g.cs
+C:\Users\zhyri\source\repos\TestKursovaya\TestKursovaya\obj\Debug\Test0.baml
